@@ -1,6 +1,6 @@
 Goal is to make the highest impact with the lowest slop.
 
-I work on [Reaper](https://github.com/gowtham-uj/ReaperCode), a TypeScript coding agent you run from the terminal, and [Reaper Dev Server](https://github.com/gowtham-uj/Reaper-Dev-Server), a self-hosted Linux pod per project with persistent terminals and scoped tokens.
+I work on [ReaperCode](https://github.com/gowtham-uj/ReaperCode), a model agnostic coding agent you run from the terminal and web, and [Reaper Dev Server](https://github.com/gowtham-uj/Reaper-Dev-Server), a self-hosted Linux pod per project with persistent terminals and scoped tokens.
 
 <div align="center">
   <a href="https://github.com/gowtham-uj/ReaperCode">
