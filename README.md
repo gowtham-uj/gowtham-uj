@@ -1,28 +1,27 @@
-Goal is to make the highest impact with the lowest slop.
+# Gowtham Ujjineni
 
-I build tools for coding agents:
+AI engineer building coding-agent runtimes, evaluation systems, and developer infrastructure.
 
-- [ReaperCode](https://github.com/gowtham-uj/ReaperCode) is a model-agnostic coding agent for the terminal and web.
-- [Reaper Dev Server](https://github.com/gowtham-uj/Reaper-Dev-Server) gives each project a self-hosted Linux pod with persistent terminals and scoped tokens.
-- [Themis](https://github.com/gowtham-uj/Themis) runs agents against real containerized evals, judges each run through an adversarial courtroom, and turns campaign-wide patterns into developer improvement plans.
+Recently completed an M.S. in Computer Science. Based in Kansas City, Missouri, and open to U.S. remote roles or relocation.
 
-<div align="center">
-  <a href="https://github.com/gowtham-uj/ReaperCode">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=ReaperCode&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide_border=true" />
-      <img alt="ReaperCode" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=ReaperCode&amp;theme=default&amp;hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/gowtham-uj/Reaper-Dev-Server">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=Reaper-Dev-Server&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide_border=true" />
-      <img alt="Reaper Dev Server" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=Reaper-Dev-Server&amp;theme=default&amp;hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/gowtham-uj/Themis">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=Themis&amp;theme=react&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;hide_border=true" />
-      <img alt="Themis" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gowtham-uj&amp;repo=Themis&amp;theme=default&amp;hide_border=true" />
-    </picture>
-  </a>
-</div>
+[Portfolio](https://gowthamujjineni.me) · [LinkedIn](https://www.linkedin.com/in/gowtham-uj/) · [Email](mailto:gowthamuj.work@gmail.com)
+
+## Current work
+
+### [ReaperCode](https://github.com/gowtham-uj/ReaperCode)
+
+A coding-agent runtime for long software-engineering tasks. It combines a CLI, React web app, JSON-RPC server, tool execution, resumable sessions, provider abstraction, and context management designed for long-running work.
+
+### [Themis](https://github.com/gowtham-uj/Themis)
+
+An evaluation platform for coding agents. It runs containerized evals, keeps sealed execution evidence, separates deterministic verification from model-based analysis, and looks for repeated behaviors across campaigns.
+
+### [Reaper Dev Server](https://github.com/gowtham-uj/Reaper-Dev-Server)
+
+A self-hosted development environment with one durable Linux container per project and persistent tmux sessions that survive browser disconnects and backend restarts.
+
+## What I work on
+
+TypeScript, JavaScript, Python, Node.js, React, SolidJS, LLM APIs, agent tool calling, context management, agent evaluation, WebSockets, Docker, Podman, Linux, tmux, Caddy, PostgreSQL, MongoDB, and SQLite.
+
+I am especially interested in coding agents, agent infrastructure, evaluation and observability, browser agents, developer tools, and AI security.
