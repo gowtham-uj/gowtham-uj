@@ -4,7 +4,7 @@ AI engineer building coding-agent runtimes, evaluation systems, and developer in
 
 Recently completed an M.S. in Computer Science. Based in Kansas City, Missouri, and open to U.S. remote roles or relocation.
 
-[Portfolio](https://gowthamujjineni.me) · [LinkedIn](https://www.linkedin.com/in/gowtham-uj/) · [Email](mailto:gowthamuj.work@gmail.com)
+[Portfolio](https://gowtham-uj.github.io/) · [LinkedIn](https://www.linkedin.com/in/gowtham-uj/) · [Email](mailto:gowthamuj.work@gmail.com)
 
 ## Current work
 
